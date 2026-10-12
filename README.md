@@ -456,13 +456,11 @@ databases    → ClusterIP (internal only, secure)
 
 ---
 
-## 👨‍💻 Author
+<div align="center">
 
-**Prateek Choudhary**
+**⭐ If you find this project interesting, consider starring the repo!**
 
+Built by [Chetan Meshram](https://github.com/chetanmeshram10)
 
----
+</div>
 
-## 📄 License
-
-This project is built for educational purposes as part of a microservices architecture assignment.
